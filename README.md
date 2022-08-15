@@ -14,4 +14,4 @@ Part 4: NMF, visualizing top words for each topic, and plotting topic frequencie
 
 Part 5: K-means clustering, PCA visualization, cluster top words visualization
 
-Part 6: TextBlob Sentiment Analysis
+Part 6: TextBlob Sentiment Analysis, compare average polarity and subjectivity scores of different clusters
