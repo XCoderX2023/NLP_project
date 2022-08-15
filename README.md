@@ -1,0 +1,2 @@
+# ObamaSpeechAnalysis
+for MDA project
